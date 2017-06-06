@@ -14,6 +14,8 @@
 
 # G
 
+- [Gildea](http://cs.rochester.edu/~gildea/) "gill DAY"
+
 # H
 
 # I
@@ -21,7 +23,6 @@
 # J
 
 # K
-
 
 # L
 
@@ -32,6 +33,8 @@
 # O
 
 # P
+
+- [Post](http://cs.jhu.edu/~post/) "poast"
 
 # Q
 
@@ -44,6 +47,8 @@
 # U
 
 # V
+
+- [Van Durme](http://cs.jhu.edu/~vandurme/) "van DERM ee"
 
 # W
 
