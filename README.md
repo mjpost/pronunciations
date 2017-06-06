@@ -1,59 +1,70 @@
-# Pronunciations
+# Name Pronunciations
 
-# A
+It often seems disrespectful to hear a moderator introduce a speaker and mispronounce their last name. 
+Yet at the same time, the mistake is understandable.
+English orthography is [an abomination](http://spellingbee.com) that has shaken off centuries of attempted spelling reforms going back at least to the 16th century and can serve as only a rough guide.
+Moreover, there are no clearly defined social conventions for asking someone how to pronounce their name, and asking can sometimes be awkward.
 
-# B
+This repo is an attempt to solve this problem by providing a database of phonetic transcriptsion of names of folks in the [ACL community](http://aclweb.org/). Please contribute!
 
-# C
+Some guidelines:
+-  Identically spelled last names might have different pronunciations, so transcriptions should include links to homepages or other identifying information.
+-  There are many names that many people might consider unambiguous, but ambiguity is in the eye of the beholder. Therefore any name that has given any person trouble could be included.
 
-# D
+## A
 
-# E
+## B
 
-# F 
+## C
 
-# G
+## D
+
+## E
+
+## F 
+
+## G
 
 - [Gildea](http://cs.rochester.edu/~gildea/) "gill DAY"
 
-# H
+## H
 
-# I
+## I
 
-# J
+## J
 
-# K
+## K
 
-# L
+## L
 
-# M
+## M
 
-# N
+## N
 
-# O
+## O
 
-# P
+## P
 
 - [Post](http://cs.jhu.edu/~post/) "poast"
 
-# Q
+## Q
 
-# R
+## R
 
-# S
+## S
 
-# T
+## T
 
-# U
+## U
 
-# V
+## V
 
 - [Van Durme](http://cs.jhu.edu/~vandurme/) "van DERM ee"
 
-# W
+## W
 
-# X 
+## X 
 
-# Y 
+## Y 
 
-# Z
+## Z
