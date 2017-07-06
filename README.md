@@ -44,6 +44,8 @@ Some guidelines:
 
 ## K
 
+- [Grzegorz Chrupała](http://grzegorz.chrupala.me) /ˈɡʐɛɡɔʂ 'xrupawa/ 
+
 ## L
 
 ## M
