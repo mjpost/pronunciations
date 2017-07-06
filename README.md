@@ -1,5 +1,7 @@
 # Name Pronunciations in the ACL Community
 
+*UPDATE*: IPA transcriptions forthcoming.
+
 Properly pronouncing a person's name is a basic tenet of respect and decency.
 It is often jarring to hear people's names mispronounced, for example at introuctions of speakers for invited talks.
 At the same time, it is often difficult to know how to pronounce someone's name in light of English's wonderful orthography, which has resisted centuries of attempted spelling reforms going back at least to the 16th century.
@@ -52,7 +54,7 @@ Some guidelines:
 
 ## P
 
-- [Post](http://cs.jhu.edu/~post/) "poast"
+- [Matt Post](http://cs.jhu.edu/~post/) /mæt pɔəst/ 
 
 ## Q
 
