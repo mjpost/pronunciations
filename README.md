@@ -1,8 +1,8 @@
 # Name Pronunciations
 
-It often seems disrespectful to hear a moderator introduce a speaker and mispronounce their last name. 
-Yet at the same time, the mistake is understandable.
-English orthography is [an abomination](http://spellingbee.com) that has shaken off centuries of attempted spelling reforms going back at least to the 16th century and can serve as only a rough guide.
+Properly pronouncing a person's name is a basic tenet of respect and decency.
+It is often jarring to hear people's names mispronounced, for example at introuctions of speakers for invited talks.
+At the same time, it is often difficult to know how to pronounce someone's name in light of English's wonderful orthography, which has resisted centuries of attempted spelling reforms going back at least to the 16th century.
 Moreover, there are no clearly defined social conventions for asking someone how to pronounce their name, and asking can sometimes be awkward.
 
 This repo is an attempt to solve this problem by providing a database of phonetic transcriptsion of names of folks in the [ACL community](http://aclweb.org/). Please contribute!
@@ -19,19 +19,25 @@ Some guidelines:
 
 ## D
 
+- [Seza Dogruoz](http://www.asezadogruoz.com) "SEZZ uh doe rue uz"
+
 ## E
 
 ## F 
 
 ## G
 
-- [Gildea](http://cs.rochester.edu/~gildea/) "gill DAY"
+- [Dan Gildea](http://cs.rochester.edu/~gildea/) "dan gill DAY"
 
 ## H
+
+- [Matt Huenerfauth](http://huenerfauth.ist.rit.edu) "matt YOO ner fowth"
 
 ## I
 
 ## J
+
+- [Marcin Junczys-Dowmunt](http://emjotde.github.io) "MAR chin JUN chis DOE mun"
 
 ## K
 
@@ -54,6 +60,8 @@ Some guidelines:
 ## S
 
 ## T
+
+- [Joel Tetreault](http://www.cs.rochester.edu/~tetreaul/academic.html) "jole TAY troh"
 
 ## U
 
