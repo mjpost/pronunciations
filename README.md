@@ -28,6 +28,7 @@ Some guidelines:
 ## G
 
 - [Dan Gildea](http://cs.rochester.edu/~gildea/) "dan gill DAY"
+- [Yoav Goldberg](https://www.cs.bgu.ac.il/~yoavg/uni/) "yahv goldberg"
 
 ## H
 
