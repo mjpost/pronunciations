@@ -1,6 +1,6 @@
 # Name Pronunciations in the ACL Community
 
-*UPDATE*: IPA transcriptions forthcoming.
+*UPDATE*: IPA transcriptions forthcoming (someday) after many complaints about my bespoke phoneme system...
 
 Properly pronouncing a person's name is a basic tenet of respect and decency.
 It is often jarring to hear people's names mispronounced, for example at introuctions of speakers for invited talks.
@@ -30,7 +30,7 @@ Some guidelines:
 ## G
 
 - [Dan Gildea](http://cs.rochester.edu/~gildea/) "dan gill DAY"
-- [Yoav Goldberg](https://www.cs.bgu.ac.il/~yoavg/uni/) "yahv goldberg"
+- [Yoav Goldberg](https://www.cs.bgu.ac.il/~yoavg/uni/) "yo ahv goldberg"
 
 ## H
 
