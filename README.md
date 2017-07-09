@@ -72,6 +72,7 @@ Some guidelines:
 
 ## P
 
+- [Yuval Pinter](http://www.yuvalpinter.com) "yoo-VAHL PIN-ter"
 - [Matt Post](http://cs.jhu.edu/~post/) /mæt pɔəst/ 
 
 ## Q
