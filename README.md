@@ -11,7 +11,7 @@ Based on discussion with a number of linguists on Twitter, building this properl
 - include audio files of people pronouncing their names in their native pronunciations
 
 While conceding these points, it's beyond the scope of my original intent, and I hope that the project as it stands will still be useful.
-In the interest of building on standards, I am removing my own private scheme in favor of [ARPABET](https://nlp.stanford.edu/courses/lsa352/arpabet.html)
+In the interest of building on standards, I am removing my own private scheme in favor of [ARPABET](https://nlp.stanford.edu/courses/lsa352/arpabet.html).
 Ones that have been transitioned are between slashes (/.../), while the old scheme uses quotes ("...").
 
 ## Background
@@ -34,10 +34,12 @@ Some guidelines:
 
 ## C
 
+- [David Chiang](http://www.nd.edu/~dchiang) /deyvihd chaeng/
+
 ## D
 
 - [Seza Dogruoz](http://www.asezadogruoz.com) "SEZZ uh doe rue uz"
-- [Mark Dredze](http://www.cs.jhu.edu/~mdredze/) /drehdziy/
+- [Mark Dredze](http://www.cs.jhu.edu/~mdredze/) /maark drehdziy/
 
 ## E
 
@@ -45,8 +47,8 @@ Some guidelines:
 
 ## G
 
-- [Dan Gildea](http://cs.rochester.edu/~gildea/) "dan gill DAY"
-- [Yoav Goldberg](https://www.cs.bgu.ac.il/~yoavg/uni/) "yo ahv goldberg"
+- [Dan Gildea](http://cs.rochester.edu/~gildea/) /daen gihldey1/
+- [Yoav Goldberg](https://www.cs.bgu.ac.il/~yoavg/uni/) /yowaav gowldberg/
 
 ## H
 
@@ -72,7 +74,7 @@ Some guidelines:
 
 ## P
 
-- [Matt Post](http://cs.jhu.edu/~post/) /mæt pɔəst/ 
+- [Matt Post](http://cs.jhu.edu/~post/) /maet powst/
 
 ## Q
 
@@ -88,7 +90,7 @@ Some guidelines:
 
 ## V
 
-- [Van Durme](http://cs.jhu.edu/~vandurme/) "van DERM ee"
+- [Ben Van Durme](http://cs.jhu.edu/~vandurme/) /behn vaen der1miy/
 
 ## W
 
