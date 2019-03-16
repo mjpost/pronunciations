@@ -9,14 +9,11 @@ Ideally, we also include [IPA](https://en.wikipedia.org/wiki/International_Phone
 
 {% for entry in site.data.pronunciations %}
   {% if entry.website %}
-- [{{ entry.name }}](entry.website)
+- [{{ entry.name }}](entry.website)  ("{{ entry.gloss }}")
   {% else %}
-- {{ entry.name }}
+- {{ entry.name }} ("{{ entry.gloss }}")
   {% endif %}
 
-  {% if entry.gloss %}
-  - Dictionary gloss: "{{ entry.gloss }}"
-  {% endif %}
   {% if entry.arpabet %}
   - Arpabet: "{{ entry.arpabet }}"
   {% endif %}
