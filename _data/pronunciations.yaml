@@ -4,6 +4,7 @@
 
 - name: Mark Dredze
   website: http://www.cs.jhu.edu/~mdredze/
+  gloss: mark DRED zee
   ipa: /drehdziy/
 
 - name: Dan Gildea
@@ -26,8 +27,9 @@
   website: http://grzegorz.chrupala.me
   ipa: /ˈɡʐɛɡɔʂ 'xrupawa/
 
-- name: Matt Posot
+- name: Matt Post
   website: mjpost.github.io
+  gloss: mat pohst
   ipa: /mæt pɔəst/
 
 - name: Joel Tetreault
