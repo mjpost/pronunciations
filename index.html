@@ -1,0 +1,41 @@
+---
+layout: default
+title: ACL Name Pronunciations
+---
+
+<div class="container">
+
+<h1>Pronunciations.</h1>
+
+<p class="lead">
+Names are followed by a dictionary-style gloss with a pronunciation aimed at (American) English speakers.
+Ideally, we also include an <a href="https://en.wikipedia.org/wiki/International_Phonetic_Alphabet">IPA pronunciation</a>.
+</p>
+
+<div class="container">
+  <table class="table">
+    <thead class="thead-dark">
+      <tr>
+        <th scope="col">Name</th>
+        <th scope="col">Dictionary gloss</th>
+        <th scope="col">IPA</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for entry in site.data.pronunciations %}
+      <tr>
+        <td>
+          {% if entry.website %}
+          <a href="{{ entry.website }}">{{ entry.name }}</a>
+          {% else %}
+          {{ entry.name }}
+          {% endif %}
+        </td>
+        <td>{% if entry.gloss %}{{ entry.gloss }}{% endif %}</td>
+        <td>{% if entry.ipa %}{{ entry.ipa }}{% endif %}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+</div>

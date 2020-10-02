@@ -1,10 +1,21 @@
 <!doctype html>
-<html>
+<html lang="en"
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
   </head>
   <body>
     {{ content }}
+
+    <footer class="bg-gradient-light py-2 py-xl-3 mt-3 mt-md-4 mt-xl-5">
+      <div class=container>
+        <p class="text-muted small px-1">
+          <i>
+            The raw data is available <a href="https://github.com/mjpost/pronunciations">on Github</a>.
+          </i>
+        </p>
+      </div>
+    </footer>
   </body>
 </html>
