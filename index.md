@@ -9,7 +9,7 @@ Ideally, we also include [IPA](https://en.wikipedia.org/wiki/International_Phone
 
 {% for entry in site.data.pronunciations %}
   {% if entry.website %}
-- [{{ entry.name }}](entry.website)  ("{{ entry.gloss }}")
+- [{{ entry.name }}]({{ entry.website }})  ("{{ entry.gloss }}")
   {% else %}
 - {{ entry.name }} ("{{ entry.gloss }}")
   {% endif %}
